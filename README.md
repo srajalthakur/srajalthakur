@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate with hands-on experience in building scalable full-stack applications, RESTful APIs, and<br>immersive AR/VR projects. Proficient in Java, React, HTML, CSS, and JavaScript. Completed 5+ academic and personal projects<br>with real-world application and impact. Skilled in delivering clean, efficient code and collaborating in agile development<br>environments.
+Computer Science undergraduate with hands-on experience in building scalable full-stack applications, RESTful APIs, and immersive AR/VR projects. Proficient in Java, React, HTML, CSS, and JavaScript. Completed 5+ academic and personal projects with real-world application and impact. Skilled in delivering clean, efficient code and collaborating in agile development environments.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@ Computer Science undergraduate with hands-on experience in building scalable ful
 ![](https://github-readme-stats.vercel.app/api?username=srajalthakur&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=srajalthakur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srajalthakur&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=srajalthakur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
